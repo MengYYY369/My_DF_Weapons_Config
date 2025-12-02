@@ -1,0 +1,853 @@
+<randompresets>
+	<attachments chance="0.5" name="DF_barrel_93R">
+		<item name="My_DF_Weapons_Attachments_barrel_93RAuto" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_barrel_93RHeavy" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_barrel_93RLong" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_barrel_93RShort" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_barrel_93RTac" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_barrel_AKM">
+		<item name="My_DF_Weapons_Attachments_barrel_akmDmr" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_barrel_Ash12">
+		<item name="My_DF_Weapons_Attachments_barrel_Ash12long" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_barrel_Ash12Mid" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_barrel_Ash12Advanced" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_barrel_VSS">
+		<item name="My_DF_Weapons_Attachments_barrel_ASVALlong" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_barrel_VSS_extended" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_barrel_AWM">
+		<item name="My_DF_Weapons_Attachments_barrel_AWMLong" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_barrel_M700">
+		<item name="My_DF_Weapons_Attachments_barrel_AWMLong" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_barrel_M700barrel" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_barrel_R93Short" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_barrel_ColtPython">
+		<item name="My_DF_Weapons_Attachments_barrel_ColtPythonCarbine" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_barrel_ColtPythonLong" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_barrel_ColtPythonShort" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_barrel_Revolver" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_barrel_Revolver_Short" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_barrel_Deagle">
+		<item name="My_DF_Weapons_Attachments_barrel_DeagleLong" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_barrel_DeagleTac" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_barrel_G17">
+		<item name="My_DF_Weapons_Attachments_barrel_G17cAdv" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_barrel_G17cCompetition" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_barrel_G18">
+		<item name="My_DF_Weapons_Attachments_barrel_G18cLong" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_barrel_M1014">
+		<item name="My_DF_Weapons_Attachments_barrel_M1014Long" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_barrel_M14">
+		<item name="My_DF_Weapons_Attachments_barrel_M14_long" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_barrel_M14_short" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_barrel_M1911">
+		<item name="My_DF_Weapons_Attachments_barrel_M1911Tac" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_barrel_M249">
+		<item name="My_DF_Weapons_Attachments_barrel_M249Short" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_barrel_M250">
+		<item name="My_DF_Weapons_Attachments_barrel_M250short" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_barrel_M870">
+		<item name="My_DF_Weapons_Attachments_barrel_M870ext" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_barrel_Mini14">
+		<item name="My_DF_Weapons_Attachments_barrel_Mini14long" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_barrel_MP7">
+		<item name="My_DF_Weapons_Attachments_barrel_mp7long" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_barrel_mp7long2" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_barrel_mp7long3" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_barrel_MP7Advanced" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_barrel_P90">
+		<item name="My_DF_Weapons_Attachments_barrel_P90Long" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_barrel_PKM">
+		<item name="My_DF_Weapons_Attachments_barrel_PKMShort" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_barrel_PKMShort2" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_barrel_QBZ191">
+		<item name="My_DF_Weapons_Attachments_barrel_QBZ191long" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_barrel_QBZ191short" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_barrel_QBZ95">
+		<item name="My_DF_Weapons_Attachments_barrel_QBZ95long" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_barrel_QBZ95short" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_barrel_QJB201">
+		<item name="My_DF_Weapons_Attachments_barrel_QJB201Short_barrel" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_barrel_QSZ92G">
+		<item name="My_DF_Weapons_Attachments_barrel_QSZ92GTac" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_barrel_R93">
+		<item name="My_DF_Weapons_Attachments_barrel_R93long" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_barrel_R93Short" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_barrel_SG553">
+		<item name="My_DF_Weapons_Attachments_barrel_SG553long" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_barrel_SG553_barrel" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_barrel_SG553Advanced" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_barrel_SMG45">
+		<item name="My_DF_Weapons_Attachments_barrel_SG553_barrel" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_barrel_SMG45Tac" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_barrel_UziLong" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_barrel_Uzi">
+		<item name="My_DF_Weapons_Attachments_barrel_SG553_barrel" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_barrel_UziLong" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_barrel_SKS">
+		<item name="My_DF_Weapons_Attachments_barrel_SKS_short" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_barrel_SKS_Yugoslav" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_barrel_SR25">
+		<item name="My_DF_Weapons_Attachments_barrel_SR25Long" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_barrel_SR25Short" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_barrel_SV98">
+		<item name="My_DF_Weapons_Attachments_barrel_SV98long" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_barrel_SV98short" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_barrel_SV98short2" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_barrel_SVD">
+		<item name="My_DF_Weapons_Attachments_barrel_svdlong" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_barrel_svdlong2" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_barrel_Bison">
+		<item name="My_DF_Weapons_Attachments_barrel_UziLong" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_barrel_PP19">
+		<item name="My_DF_Weapons_Attachments_barrel_UziLong" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_bipod">
+		<item name="My_DF_Weapons_Attachments_bipod_SR25" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_bipod_AK12">
+		<item name="My_DF_Weapons_Attachments_bipod_AK74Bar" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_bipod_AUG">
+		<item name="My_DF_Weapons_Attachments_bipod_AUGBar" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_bipod_AWM">
+		<item name="My_DF_Weapons_Attachments_bipod_AWM" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_bipod_M249">
+		<item name="My_DF_Weapons_Attachments_bipod_M249Bar" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_bipod_M250">
+		<item name="My_DF_Weapons_Attachments_bipod_M250Bar" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_bipod_PKM">
+		<item name="My_DF_Weapons_Attachments_bipod_PKMBar" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_bipod_QJB201">
+		<item name="My_DF_Weapons_Attachments_bipod_QJB201Bar" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_bipod_SV98">
+		<item name="My_DF_Weapons_Attachments_bipod_SV98Bar" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_frog_down">
+		<item name="My_DF_Weapons_Attachments_frog_AFG_Light" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_frog_Arisaka" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_frog_AYA_ZFSG" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_frog_BCM" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_frog_CQRgen2" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_frog_For_Shift" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_frog_Hera_CQR" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_frog_Kac" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_frog_Mag_AFG" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_frog_MP7" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_frog_P90_Std" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_frog_RTK" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_frog_Rvg" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_frog_SCAR" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_frog_SF900A" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_frog_SHIFTbev" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_frog_SI" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_frog_SLR" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_frog_SmallStopper" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_frog_STFG" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_frog_Tan_MK46K" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_frog_ZenitRK125U" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_frog_Zenit_RK0" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_frog_Half_handstop" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_handguard_AKM">
+		<item name="My_DF_Weapons_Attachments_handguard_AK100polymer" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_handguard_AK_AYA_lance_nobarrel" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_handguard_AK_CAA_RS47_PP19" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_handguard_AK_competition_nobarrel" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_handguard_AK_romania" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_handguard_AK_slr_PP19" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_handguard_AK_slr_extend" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_handguard_AK12">
+		<item name="My_DF_Weapons_Attachments_handguard_AK12_mlok" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_handguard_AK12_mlok_extend" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_handguard_AKS74U">
+		<item name="My_DF_Weapons_Attachments_handguard_AKS74U_handguard" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_handguard_up_AKS74U">
+		<item name="My_DF_Weapons_Attachments_handguard_AKS74U_handguard_up" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_handguard_S12K">
+		<item name="My_DF_Weapons_Attachments_handguard_AK_AYA_lance_S12K" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_handguard_AK_CAA_RS47_S12K" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_handguard_AK_competition_S12K" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_handguard_AK_slr_S12K" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_handguard_PP19">
+		<item name="My_DF_Weapons_Attachments_handguard_AK_CAA_RS47_PP19" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_handguard_AK_slr_PP19" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_handguard_AR">
+		<item name="My_DF_Weapons_Attachments_handguard_AR_competition" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_handguard_AR_KAC_RIS" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_handguard_AR_KAC_URX" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_handguard_AR_lvoa" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_handguard_AR_mk18" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_handguard_AR_std" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_handguard_AUG">
+		<item name="My_DF_Weapons_Attachments_handguard_AUG_competition" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_handguard_AUG_Optic" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_handguard_AUG_quadrail" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_handguard_AUG_Suppressed" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_handguard_AWM">
+		<item name="My_DF_Weapons_Attachments_handguard_AWMExtendedhandguard" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_handguard_Bison">
+		<item name="My_DF_Weapons_Attachments_handguard_Bison_competition" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_handguard_Citori725">
+		<item name="My_DF_Weapons_Attachments_handguard_Citori725_Short" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_handguard_Citori725_Tac" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_handguard_G3">
+		<item name="My_DF_Weapons_Attachments_handguard_G3_mlok" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_handguard_G3_mlok_extend" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_handguard_G3_Rail" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_handguard_G3_shortRail" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_handguard_K416">
+		<item name="My_DF_Weapons_Attachments_handguard_K416_A8" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_handguard_K416_A8_extend" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_handguard_K416_long" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_handguard_K416_Short" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_handguard_K437">
+		<item name="My_DF_Weapons_Attachments_handguard_K437_Short" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_handguard_K437_Silencer" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_handguard_K437_long" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_handguard_KC17">
+		<item name="My_DF_Weapons_Attachments_handguard_KC17_long" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_handguard_KC17_Short" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_handguard_KC17_Silencer" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_handguard_M1014">
+		<item name="My_DF_Weapons_Attachments_handguard_M1014_TriRaid" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_handguard_M14">
+		<item name="My_DF_Weapons_Attachments_handguard_M14_comp" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_handguard_M14_ebr" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_handguard_M14_rail" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_handguard_M249">
+		<item name="My_DF_Weapons_Attachments_handguard_M249_Bipod" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_handguard_M249_TriRaid" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_handguard_M249_TriRaidShort" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_handguard_M700">
+		<item name="My_DF_Weapons_Attachments_handguard_M700_A3" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_handguard_M700_A6" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_handguard_M700_handguard" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_handguard_M700_nylon" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_handguard_M7">
+		<item name="My_DF_Weapons_Attachments_handguard_M7_dmr" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_handguard_M7_long" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_handguard_M7_short" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_handguard_M870">
+		<item name="My_DF_Weapons_Attachments_handguard_M870_Rail" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_handguard_Marlin">
+		<item name="My_DF_Weapons_Attachments_handguard_Marlin_long" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_handguard_Marlin_Short" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_handguard_Mini14">
+		<item name="My_DF_Weapons_Attachments_handguard_Mini14_ebr" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_handguard_Mini14_ergo" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_handguard_Mini14_Std" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_handguard_MK47">
+		<item name="My_DF_Weapons_Attachments_handguard_MK47_long" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_handguard_MK47_Short" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_handguard_MP5">
+		<item name="My_DF_Weapons_Attachments_handguard_MP5K" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_handguard_MP5_PTR" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_handguard_MP5_PTR_Short" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_muzzle">
+		<!-- <item name="M4_Suppressor" chance="0.1"/> -->
+		<!-- <item name="AK_Suppressor" chance="0.1"/> -->
+		<item name="My_DF_Weapons_Attachments_muzzle_762SL4" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_muzzle_AK74" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_muzzle_AKS" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_muzzle_AMTBig" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_muzzle_ARCompensator" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_muzzle_Break" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_muzzle_car15" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_muzzle_CSLR17" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_muzzle_DTK2" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_muzzle_FNAttenuator" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_muzzle_Hive" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_muzzle_HK437" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_muzzle_HK437Silencer" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_muzzle_KC17_muzzle" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_muzzle_M14" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_muzzle_M249" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_muzzle_M250" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_muzzle_M250Silencer" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_muzzle_M4A1" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_muzzle_MCX" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_muzzle_MCXSilencer" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_muzzle_MCXSilencer2" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_muzzle_MK47_muzzle" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_muzzle_mp7" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_muzzle_OPS" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_muzzle_Osprey" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_muzzle_PAMuzzleBrake" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_muzzle_PBS04" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_muzzle_QBZ191" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_muzzle_QBZ191long" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_muzzle_QCQ171" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_muzzle_QCQ171Silencer" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_muzzle_QJB201" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_muzzle_Russian9" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_muzzle_SilHybrid46" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_muzzle_SKSHexagon" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_muzzle_sr25cqbSilencer" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_muzzle_SR25Short" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_muzzle_SR3M" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_muzzle_SurF_SF3P" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_muzzle_TwistedTempest" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_muzzle_Zen_DTK" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_muzzle_MK4_muzzle" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_muzzle_LeverStd" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_handguard_MP7">
+		<item name="My_DF_Weapons_Attachments_handguard_MP7_long" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_handguard_MP7_Advanced" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_handguard_P90">
+		<item name="My_DF_Weapons_Attachments_handguard_P90_FourTri" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_handguard_QBZ191">
+		<item name="My_DF_Weapons_Attachments_handguard_QBZ191_long" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_handguard_QBZ95">
+		<item name="My_DF_Weapons_Attachments_handguard_QBZ95_mlok" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_handguard_QCQ171">
+		<item name="My_DF_Weapons_Attachments_handguard_QCQ171_ForeGrip" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_handguard_QCQ171_Tactical" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_handguard_QCQ171_Tactical2" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_handguard_QJB201">
+		<item name="My_DF_Weapons_Attachments_handguard_QJB201_Short" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_handguard_QJB201_Tac" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_handguard_R93">
+		<item name="My_DF_Weapons_Attachments_handguard_R93handguard" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_handguard_SCARH">
+		<item name="My_DF_Weapons_Attachments_handguard_SCARH_long" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_handguard_SCARH_short" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_handguard_SG553">
+		<item name="My_DF_Weapons_Attachments_handguard_SG553_long" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_handguard_SG553_Advanced" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_handguard_SKS">
+		<item name="My_DF_Weapons_Attachments_handguard_SKS_adv" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_handguard_SKS_comp" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_handguard_SMG45">
+		<item name="My_DF_Weapons_Attachments_handguard_SMG45_Tactical" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_handguard_SR25">
+		<item name="My_DF_Weapons_Attachments_handguard_SR25_cqb" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_handguard_SR25_Carbon" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_handguard_SR3M">
+		<item name="My_DF_Weapons_Attachments_handguard_SR3M_Silencer" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_handguard_SVD">
+		<item name="My_DF_Weapons_Attachments_handguard_SVD_rail" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_handguard_SVD_std" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_handguard_Uzi">
+		<item name="My_DF_Weapons_Attachments_handguard_Uzi_foregrip" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_handguard_Uzi_military" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_handguard_Vector">
+		<item name="My_DF_Weapons_Attachments_handguard_Vector_4PicHan" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_handguard_Vector_ExtraExtented" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_handguard_Vector_Striker" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_handguard_PKM">
+		<item name="My_DF_Weapons_Attachments_handguard_PKMZenitKit" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_handguard_Ash12">
+		<item name="My_DF_Weapons_Attachments_handguard_Ash12_Advanced" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_handguard_MK4">
+		<item name="My_DF_Weapons_Attachments_handguard_MK4_Short" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_handguard_MK4_long" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_frog_right">
+		<item name="UniversalLight" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_laser_DBAL_X2" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_laser_peq2" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_laser_PEQ25" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_laser_prest4" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_light_Baldr" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_light_BHD" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_light_Odin" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_light_StrobeLight" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_light_Surf_X400" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_light_Warrior3S" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_frog_up">
+		<item name="UniversalLight" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_laser_DBAL_X2" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_laser_peq2" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_laser_PEQ25" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_laser_prest4" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_light_Baldr" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_light_BHD" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_light_Odin" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_light_StrobeLight" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_light_Surf_X400" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_light_Warrior3S" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_frog_left">
+		<item name="UniversalLight" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_laser_DBAL_X2" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_laser_peq2" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_laser_PEQ25" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_laser_prest4" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_light_Baldr" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_light_BHD" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_light_Odin" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_light_StrobeLight" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_light_Surf_X400" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_light_Warrior3S" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_frog_up2">
+		<item name="My_DF_Weapons_Attachments_other_cqbRailcover1" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_other_cqbRailcover2" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_other_cqbRailcover3" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_other_DDRailcover1" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_other_DDRailcover2" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_other_DDRailcover3" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_other_KACRailcover1" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_other_KACRailcover2" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_other_KACRailcover3" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_other_metalRailcover1" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_other_metalRailcover2" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_other_metalRailcover3" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_other_type2Railcover1" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_other_type2Railcover2" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_other_type2Railcover3" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_frog_left2">
+		<item name="My_DF_Weapons_Attachments_other_cqbRailcover1" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_other_cqbRailcover2" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_other_cqbRailcover3" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_other_DDRailcover1" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_other_DDRailcover2" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_other_DDRailcover3" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_other_KACRailcover1" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_other_KACRailcover2" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_other_KACRailcover3" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_other_metalRailcover1" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_other_metalRailcover2" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_other_metalRailcover3" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_other_type2Railcover1" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_other_type2Railcover2" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_other_type2Railcover3" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_frog_right2">
+		<item name="My_DF_Weapons_Attachments_other_cqbRailcover1" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_other_cqbRailcover2" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_other_cqbRailcover3" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_other_DDRailcover1" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_other_DDRailcover2" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_other_DDRailcover3" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_other_KACRailcover1" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_other_KACRailcover2" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_other_KACRailcover3" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_other_metalRailcover1" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_other_metalRailcover2" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_other_metalRailcover3" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_other_type2Railcover1" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_other_type2Railcover2" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_other_type2Railcover3" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_muzzle_Ash12">
+		<item name="My_DF_Weapons_Attachments_muzzle_Ash12" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_muzzle_Ash12_2" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_muzzle_VKS" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_muzzle_Citori725">
+		<item name="My_DF_Weapons_Attachments_muzzle_Citori725" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="pistolMuzzle">
+		<item name="My_DF_Weapons_Attachments_muzzle_Common1" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_muzzle_Common1_2" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_muzzle_Osprey" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_muzzle_P90" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_muzzleShotgun">
+		<item name="My_DF_Weapons_Attachments_muzzle_Common1_3" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_muzzle_Common1_4" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_muzzle_HK_Noveske" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_muzzle_SG2" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_muzzle_V6Muzzle" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_muzzle_ZeroRise" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_muzzle_AWM">
+		<item name="My_DF_Weapons_Attachments_muzzle_M40" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_muzzle_SV98" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_muzzle_VKS" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="weaponOptics">
+		<!-- <item name="M4_T3NRDSOptic" chance="0.1"/> -->
+		<!-- <item name="M68Optic" chance="0.1"/> -->
+		<!-- <item name="ReflexOptic" chance="0.1"/> -->
+		<!-- <item name="ACOGOptic" chance="0.1"/> -->
+		<!-- <item name="ACOGOptic_6x" chance="0.1"/> -->
+		<!-- <item name="MK4Optic_Tan" chance="0.1"/> -->
+		<!-- <item name="MK4Optic_Green" chance="0.1"/> -->
+		<!-- <item name="MK4Optic_Black" chance="0.1"/> -->
+		<!-- <item name="StarlightOptic" chance="0.1"/> -->
+		<item name="My_DF_Weapons_Attachments_optic_Canted" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_optic_compact_point" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_optic_aimpoint_t2" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_optic_DeltaPoint" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_optic_holo" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_optic_holo2" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_optic_ekp_8" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_optic_Fastfire" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_optic_foldingRD" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_optic_okp_7" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_optic_OSIGHT" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_optic_pk_as" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_optic_Reddot" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_optic_RMR" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_optic_Valday" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_optic_VortexVenom" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_optic_rmr2" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_optic_1p" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_optic_ACOG93" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_optic_acog_remake" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_optic_aimpoint5000" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_optic_aimpoint_pro" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_optic_hamr" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_optic_LPM3" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_optic_M157" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_optic_sniperscope" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_optic_sniperscope2" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_optic_sniperscope3" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_optic_sniperscope4" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_optic_specter" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_optic_Sro" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_optic_ThermalAdditive" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_optic_thermalreddot" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_optic_thermalscope" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_optic_thermalscope2" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_optic_TrihawkPrismScope" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_optic_vudu" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_optic_GlasslessRedDot" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="pistolOptics">
+		<!-- <item name="FNP45_MRDSOptic" chance="0.1"/> -->
+		<item name="My_DF_Weapons_Attachments_optic_Canted" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_optic_compact_point" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_optic_DeltaPoint" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_optic_Fastfire" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_optic_foldingRD" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_optic_holo" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_optic_holo2" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_optic_okp_7" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_optic_OSIGHT" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_optic_Reddot" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_optic_RMR" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_optic_rmr2" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_optic_Sro" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_optic_thermalreddot" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_optic_VortexVenom" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_ak_handlecap">
+		<item name="My_DF_Weapons_Attachments_other_AKhandleCap" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_mount">
+		<item name="My_DF_Weapons_Attachments_other_cantedMount" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_other_hydra" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_other_riser" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_other_MEO_Mount" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_flashkill">
+		<item name="My_DF_Weapons_Attachments_other_flashkill" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_mount_G3">
+		<item name="My_DF_Weapons_Attachments_other_G3_Mount" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_hammer_M1911">
+		<item name="My_DF_Weapons_Attachments_other_Hammer_M1911Tac" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_mount_M14">
+		<item name="My_DF_Weapons_Attachments_other_M14_Mount" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_mount_M1911">
+		<item name="My_DF_Weapons_Attachments_other_M1911Mount" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_cheekpad">
+		<item name="My_DF_Weapons_Attachments_other_Universal_Cheekpad" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_trigger_Marlin">
+		<item name="My_DF_Weapons_Attachments_other_Marlin_HeavyTrigger" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_other_Marlin_LightTrigger" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_Handle_PKM">
+		<item name="My_DF_Weapons_Attachments_other_PKM_Handle" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_mount_Pistol">
+		<item name="My_DF_Weapons_Attachments_other_PTMount" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_Piston_QBZ191">
+		<item name="My_DF_Weapons_Attachments_other_QBZ191highPiston" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_other_QBZ191lowPiston" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_Handle_QBZ95">
+		<item name="My_DF_Weapons_Attachments_other_QBZ95LongBowHandle" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_cheekpad_QBZ95">
+		<item name="My_DF_Weapons_Attachments_other_QBZ95_Cheekpad" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_Bolt_QCQ171">
+		<item name="My_DF_Weapons_Attachments_other_QCQ171Heavy_Bolt" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_other_QCQ171Light_Bolt" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_Piston_QJB201">
+		<item name="My_DF_Weapons_Attachments_other_QJB201highPiston" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_other_QJB201lowPiston" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_R93HeatShield">
+		<item name="My_DF_Weapons_Attachments_other_R93HeatShield" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_mount_S12K">
+		<item name="My_DF_Weapons_Attachments_other_S12K_Mount" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_mount_SKS">
+		<item name="My_DF_Weapons_Attachments_other_SKS_Mount" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_StickLoaderLifter">
+		<item name="My_DF_Weapons_Attachments_other_StickLoaderLifter" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_mount_SVD">
+		<item name="My_DF_Weapons_Attachments_other_SVD_Mount" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_trigger_Citori725">
+		<item name="My_DF_Weapons_Attachments_other_Trigger_725Burst" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_other_Trigger_725Twostage" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_trigger_M1911">
+		<item name="My_DF_Weapons_Attachments_other_Trigger_M1911Tac" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_trigger_PSG">
+		<item name="My_DF_Weapons_Attachments_other_Trigger_PSG" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_mount_SR3M">
+		<item name="My_DF_Weapons_Attachments_other_VSS_Mount" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_pisg_93R">
+		<item name="My_DF_Weapons_Attachments_pisg_93RAdv" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_pisg_93RErgo" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_pisg_93RSteady" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_ak_pisg">
+		<item name="My_DF_Weapons_Attachments_pisg_AK100" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_pisg_AKS" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_pisg_AK12" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_pisg_AK74" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_pisg_AKframe" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_pisg_AKHouger" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_pisg_AKpsg" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_pisg_ASVAL" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_pisg_Izh_Polymer" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_pisg_M40A6" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_pisg_PKM" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_pisg_RK3" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_pisg_scorpius" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_ar_pisg">
+		<item name="My_DF_Weapons_Attachments_pisg_ARProGrip" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_pisg_ARpsg" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_pisg_CAR15_pisg" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_pisg_GRALS" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_pisg_K416_pisg" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_pisg_K437_pisg" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_pisg_KC17_pisg" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_pisg_M250psg" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_pisg_M4A1_std" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_pisg_M7" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_pisg_Mag_MOE1" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_pisg_Mag_MOE2" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_pisg_MK47_pisg" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_pisg_MOE_K2" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_pisg_MORE" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_pisg_SI25" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_pisg_SMG45_pisg" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_pisg_MK4_pisg" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_ar_pisg_ext">
+		<item name="My_DF_Weapons_Attachments_pisg_ARProBalance" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_pisg_ARProHeavy" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_pisg_ARProStd" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_pisg_ColtPython">
+		<item name="My_DF_Weapons_Attachments_pisg_ColtPythonCarbine_pisg" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_pisg_Revolver_pisg" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_pisg_Deagle">
+		<item name="My_DF_Weapons_Attachments_pisg_DeagleErgo" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_pisg_Glock">
+		<item name="My_DF_Weapons_Attachments_pisg_G18cAdv" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_pisg_G18cFriction" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_pisg_G18cSteady" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_pisg_G3">
+		<item name="My_DF_Weapons_Attachments_pisg_g3" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_pisg_G3frame" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_pisg_g3psg1" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_pisg_G3Balance" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_pisg_M1911">
+		<item name="My_DF_Weapons_Attachments_pisg_M1911Tac_pisg" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_pisg_MP7">
+		<item name="My_DF_Weapons_Attachments_pisg_mp7psg" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_pisg_mp7psg2" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_PLA_pisg">
+		<item name="My_DF_Weapons_Attachments_pisg_QBZ191" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_pisg_QBZ191heavy" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_pisg_QBZ191light" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_pisg_QBZ95_pisg" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_pisg_QBZBalance" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_pisg_QCQ171_pisg" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_pisg_QJB201_pisg" chance="0.1"/>
+	</attachments>
+	<!-- <attachments chance="0.5" name="DF_stock">
+		<item name="My_DF_Weapons_Attachments_stock_AK19" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_stock_AK74_Std" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_stock_AKS74U_Std" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_stock_AKSkeleton" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_stock_AK_1913adapter" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_stock_AK_acradapter" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_stock_AK_bufferadapter" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_stock_ARtube" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_stock_CQR2" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_stock_Frame" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_stock_HeraCQR" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_stock_M16" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_stock_PRS3" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_stock_PSG" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_stock_PT1" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_stock_PT3" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_stock_S12K_Std" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_stock_SI" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_stock_Sig1" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_stock_Sig2" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_stock_Strike" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_stock_UBR2" chance="0.1"/>
+	</attachments> -->
+	<attachments chance="0.5" name="DF_stock_pad">
+		<item name="My_DF_Weapons_Attachments_stock_AK74_Std_Pad" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_stock_Ash12">
+		<item name="My_DF_Weapons_Attachments_stock_Ash12Skeleton" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_stock_Ash12Sniper" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_stock_pad_AUG">
+		<item name="My_DF_Weapons_Attachments_stock_AUG_StockPad" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_stock_notube">
+		<item name="My_DF_Weapons_Attachments_stock_CAR15_stock" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_stock_CoreCP" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_stock_CQR2" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_stock_CTR" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_stock_E1" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_stock_HeraCQR" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_stock_M4A1_Std" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_stock_M7_stock" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_stock_MBRS" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_stock_MDT" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_stock_SL" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_stock_Slimline" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_stock_UBR2" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_stock_vltor" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_stock_MagpulDT" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_stock_AdvanceART" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_stock_Citori725">
+		<item name="My_DF_Weapons_Attachments_stock_Citori725Short_stock" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_stock_Citori725Tac_stock" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_stock_special">
+		<item name="My_DF_Weapons_Attachments_stock_Frame" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_stock_Sig1" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_stock_Sig2" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_stock_Strike" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_stock_Marlin">
+		<item name="My_DF_Weapons_Attachments_stock_MarlinNonStock" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_stock_MarlinOpenwork" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_stock_MarlinSport" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_stock_MarlinSteady" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_stock_MarlinTactical" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_stock_pad_P90">
+		<item name="My_DF_Weapons_Attachments_stock_P90_StockPad" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_stock_SVD">
+		<item name="My_DF_Weapons_Attachments_stock_SVD_bufferadapter" chance="0.1"/>
+		<item name="My_DF_Weapons_Attachments_stock_SVD_stock" chance="0.1"/>
+	</attachments>
+	<attachments chance="0.5" name="DF_stock_VSS">
+		<item name="My_DF_Weapons_Attachments_stock_VSS_Stock" chance="0.1"/>
+	</attachments>
+</randompresets>

@@ -1,0 +1,825 @@
+<spawnabletypes>
+	<type name="My_DF_Weapons_DMR_M14">
+		<attachments preset="weaponOptics" />
+		<attachments preset="DF_muzzle" />
+		<attachments preset="DF_barrel_M14" />
+		<attachments preset="DF_handguard_M14" />
+		<attachments preset="DF_cheekpad" />
+		<attachments preset="DF_mount_M14" />
+		<attachments chance="0.5">
+			<item name="Mag_M14_10Rnd" chance="0.1" />
+			<item name="Mag_M14_20Rnd" chance="0.1" />
+			<item name="My_DF_Weapons_DMR_M14_10RndMag" chance="0.1" />
+			<item name="My_DF_Weapons_DMR_M14_20RndMag" chance="0.1" />
+			<item name="My_DF_Weapons_DMR_M14_30RndMag" chance="0.1" />
+			<item name="My_DF_Weapons_DMR_M14_50RndMag" chance="0.1" />
+		</attachments>
+	</type>
+	<type name="My_DF_Weapons_DMR_Marlin">
+		<attachments preset="weaponOptics" />
+		<attachments preset="DF_muzzle" />
+		<attachments preset="DF_stock_Marlin" />
+		<attachments preset="DF_handguard_Marlin" />
+		<attachments preset="DF_trigger_Marlin" />
+	</type>
+	<type name="My_DF_Weapons_DMR_Mini14">
+		<attachments preset="weaponOptics" />
+		<attachments preset="DF_muzzle" />
+		<attachments preset="DF_barrel_Mini14" />
+		<attachments preset="DF_handguard_Mini14" />
+		<attachments chance="0.5">
+			<item name="My_DF_Weapons_DMR_Mini14_10RndMag" chance="0.1" />
+			<item name="My_DF_Weapons_DMR_Mini14_20RndMag" chance="0.1" />
+			<item name="My_DF_Weapons_DMR_Mini14_30RndMag" chance="0.1" />
+		</attachments>
+	</type>
+	<type name="My_DF_Weapons_DMR_SKS">
+		<attachments preset="weaponOptics" />
+		<attachments preset="DF_muzzle" />
+		<attachments preset="DF_barrel_SKS" />
+		<attachments preset="DF_mount_SKS" />
+	</type>
+	<type name="My_DF_Weapons_DMR_PSG">
+		<attachments preset="weaponOptics" />
+		<attachments preset="DF_muzzle" />
+		<attachments preset="DF_handguard_G3" />
+		<attachments preset="DF_pisg_G3" />
+		<attachments preset="DF_frog_down" />
+		<attachments preset="DF_bipod" />
+		<attachments preset="DF_trigger_PSG" />
+		<attachments preset="DF_mount_G3" />
+		<attachments chance="0.5">
+			<item name="My_DF_Weapons_Rifles_G3_10RndMag" chance="0.1" />
+			<item name="My_DF_Weapons_Rifles_G3_20RndMag" chance="0.1" />
+			<item name="My_DF_Weapons_Rifles_G3_30RndMag" chance="0.1" />
+			<item name="My_DF_Weapons_Rifles_G3_50RndDrumMag" chance="0.1" />
+		</attachments>
+	</type>
+	<type name="My_DF_Weapons_DMR_SP9">
+		<attachments preset="weaponOptics" />
+		<attachments preset="DF_muzzle" />
+		<attachments preset="DF_handguard_G3" />
+		<attachments preset="DF_frog_down" />
+		<attachments preset="DF_bipod" />
+		<attachments preset="DF_trigger_PSG" />
+		<attachments preset="DF_mount_G3" />
+		<attachments chance="0.5">
+			<item name="My_DF_Weapons_Rifles_G3_10RndMag" chance="0.1" />
+			<item name="My_DF_Weapons_Rifles_G3_20RndMag" chance="0.1" />
+			<item name="My_DF_Weapons_Rifles_G3_30RndMag" chance="0.1" />
+			<item name="My_DF_Weapons_Rifles_G3_50RndDrumMag" chance="0.1" />
+		</attachments>
+	</type>
+	<type name="My_DF_Weapons_DMR_SR25">
+		<attachments preset="weaponOptics" />
+		<attachments preset="DF_muzzle" />
+		<attachments preset="DF_barrel_SR25" />
+		<attachments preset="DF_handguard_SR25" />
+		<attachments preset="DF_ar_pisg" />
+		<attachments preset="DF_frog_down" />
+		<attachments preset="DF_bipod" />
+		<attachments chance="0.5">
+			<item name="My_DF_Weapons_DMR_SR25_10RndMag" chance="0.1" />
+			<item name="My_DF_Weapons_DMR_SR25_20RndMag" chance="0.1" />
+		</attachments>
+	</type>
+	<type name="My_DF_Weapons_DMR_SVD">
+		<attachments preset="weaponOptics" />
+		<attachments preset="DF_muzzle" />
+		<attachments preset="DF_barrel_SVD" />
+		<attachments preset="DF_handguard_SVD" />
+		<attachments preset="DF_stock_SVD" />
+		<attachments preset="DF_mount_SVD" />
+		<attachments preset="DF_ak_handlecap" />
+		<attachments chance="0.5">
+			<item name="Mag_SVD_10Rnd" chance="0.1" />
+			<item name="My_DF_Weapons_DMR_SVD_10RndMag" chance="0.1" />
+			<item name="My_DF_Weapons_DMR_SVD_20RndMag" chance="0.1" />
+		</attachments>
+	</type>
+	<type name="My_DF_Weapons_DMR_VSS">
+		<attachments preset="weaponOptics" />
+		<attachments preset="DF_muzzle" />
+		<attachments preset="DF_barrel_VSS" />
+		<attachments preset="DF_stock_VSS" />
+		<attachments preset="DF_mount_SVD" />
+		<attachments preset="DF_ak_handlecap" />
+		<attachments chance="0.5">
+			<item name="Mag_VSS_10Rnd" chance="0.1" />
+			<item name="Mag_VAL_20Rnd" chance="0.1" />
+			<item name="Mag_Vikhr_30Rnd" chance="0.1" />
+			<item name="My_DF_Weapons_DMR_VSS_10RndMag" chance="0.1" />
+			<item name="My_DF_Weapons_DMR_VSS_30RndMag" chance="0.1" />
+			<item name="My_DF_Weapons_DMR_VSS_45RndMag" chance="0.1" />
+		</attachments>
+	</type>
+	<type name="My_DF_Weapons_LMG_M249">
+		<attachments preset="weaponOptics" />
+		<attachments preset="DF_muzzle" />
+		<attachments preset="DF_barrel_M249" />
+		<attachments preset="DF_handguard_M249" />
+		<attachments preset="DF_frog_down" />
+		<attachments preset="DF_bipod" />
+		<attachments chance="0.5">
+			<item name="Mag_STANAG_30Rnd" chance="0.1" />
+			<item name="Mag_STANAGCoupled_30Rnd" chance="0.1" />
+			<item name="Mag_STANAG_60Rnd" chance="0.1" />
+			<item name="Mag_CMAG_10Rnd" chance="0.1" />
+			<item name="Mag_CMAG_20Rnd" chance="0.1" />
+			<item name="Mag_CMAG_30Rnd" chance="0.1" />
+			<item name="Mag_CMAG_40Rnd" chance="0.1" />
+			<item name="My_DF_Weapons_Rifles_M4A1_20RndMag" chance="0.1" />
+			<item name="My_DF_Weapons_Rifles_M4A1_30RndMag" chance="0.1" />
+			<item name="My_DF_Weapons_Rifles_M4A1_30RndMag2" chance="0.1" />
+			<item name="My_DF_Weapons_Rifles_M4A1_30RndPMag" chance="0.1" />
+			<item name="My_DF_Weapons_Rifles_M4A1_45RndMag" chance="0.1" />
+			<item name="My_DF_Weapons_Rifles_M4A1_60RndDrumMag" chance="0.1" />
+			<item name="My_DF_Weapons_Rifles_M4A1_60RndMag" chance="0.1" />
+			<item name="My_DF_Weapons_LMG_M249_100RndMag" chance="0.1" />
+		</attachments>
+	</type>
+	<type name="My_DF_Weapons_LMG_M250">
+		<attachments preset="weaponOptics" />
+		<attachments preset="DF_muzzle" />
+		<attachments preset="DF_barrel_M250" />
+		<attachments preset="DF_ar_pisg" />
+		<attachments preset="DF_stock_notube" />
+		<attachments preset="DF_bipod_M250" />
+		<attachments preset="DF_frog_down" />
+		<attachments chance="0.5">
+			<item name="My_DF_Weapons_LMG_M250_75RndMag" chance="0.1" />
+			<item name="My_DF_Weapons_LMG_M250_125RndMag" chance="0.1" />
+		</attachments>
+	</type>
+	<type name="My_DF_Weapons_LMG_PKM">
+		<attachments preset="weaponOptics" />
+		<attachments preset="DF_muzzle" />
+		<attachments preset="DF_barrel_PKM" />
+		<attachments preset="DF_handguard_PKM" />
+		<attachments preset="DF_ak_pisg" />
+		<attachments preset="DF_ak_handlecap" />
+		<attachments preset="DF_bipod_PKM" />
+		<attachments preset="DF_Handle_PKM" />
+		<attachments chance="0.5">
+			<item name="My_DF_Weapons_LMG_PKM_75RndMag" chance="0.1" />
+			<item name="My_DF_Weapons_LMG_PKM_125RndMag" chance="0.1" />
+		</attachments>
+	</type>
+	<type name="My_DF_Weapons_LMG_QJB201">
+		<attachments preset="weaponOptics" />
+		<attachments preset="DF_muzzle" />
+		<attachments preset="DF_barrel_QJB201" />
+		<attachments preset="DF_handguard_QJB201" />
+		<attachments preset="DF_PLA_pisg" />
+		<attachments preset="DF_frog_down" />
+		<attachments preset="DF_bipod_QJB201" />
+		<attachments preset="DF_Piston_QJB201" />
+		<attachments chance="0.5">
+			<item name="My_DF_Weapons_LMG_QJB201_45RndMag" chance="0.1" />
+			<item name="My_DF_Weapons_LMG_QJB201_125RndMag" chance="0.1" />
+			<item name="My_DF_Weapons_Rifles_QBZ95_30RndMag" chance="0.1" />
+			<item name="My_DF_Weapons_Rifles_QBZ191_30RndMag" chance="0.1" />
+			<item name="My_DF_Weapons_Rifles_QBZ191_60RndMag" chance="0.1" />
+		</attachments>
+	</type>
+	<type name="My_DF_Weapons_Pistols_93R">
+		<attachments preset="pistolOptics" />
+		<attachments preset="pistolMuzzle" />
+		<attachments preset="DF_barrel_93R" />
+		<attachments preset="DF_pisg_93R" />
+		<attachments chance="0.5">
+			<item name="My_DF_Weapons_Pistols_93R_12RndMag" chance="0.1" />
+			<item name="My_DF_Weapons_Pistols_93R_18RndExtMag" chance="0.1" />
+			<item name="My_DF_Weapons_Pistols_93R_24RndExtMag" chance="0.1" />
+		</attachments>
+	</type>
+	<type name="My_DF_Weapons_Pistols_ColtPython">
+		<attachments preset="weaponOptics" />
+		<attachments preset="pistolMuzzle" />
+		<attachments preset="DF_barrel_ColtPython" />
+		<attachments preset="DF_pisg_ColtPython" />
+	</type>
+	<type name="My_DF_Weapons_Pistols_Deagle">
+		<attachments preset="weaponOptics" />
+		<attachments preset="pistolMuzzle" />
+		<attachments preset="DF_barrel_Deagle" />
+		<attachments preset="DF_pisg_Deagle" />
+		<attachments chance="0.5">
+			<item name="Mag_Deagle_9rnd" chance="0.1" />
+			<item name="My_DF_Weapons_Pistols_Deagle_7RndMag" chance="0.1" />
+			<item name="My_DF_Weapons_Pistols_Deagle_13RndMag" chance="0.1" />
+		</attachments>
+	</type>
+	<type name="My_DF_Weapons_Pistols_Glock18C">
+		<attachments preset="pistolOptics" />
+		<attachments preset="pistolMuzzle" />
+		<attachments preset="DF_barrel_G18" />
+		<attachments preset="DF_pisg_Glock" />
+		<attachments chance="0.5">
+			<item name="Mag_Glock_15Rnd" chance="0.1" />
+			<item name="My_DF_Weapons_Pistols_Glock18C_17RndMag" chance="0.1" />
+			<item name="My_DF_Weapons_Pistols_Glock18C_25RndExtMag" chance="0.1" />
+			<item name="My_DF_Weapons_Pistols_Glock18C_33RndExtMag" chance="0.1" />
+		</attachments>
+	</type>
+	<type name="My_DF_Weapons_Pistols_Glock17C">
+		<attachments preset="pistolOptics" />
+		<attachments preset="pistolMuzzle" />
+		<attachments preset="DF_barrel_G17" />
+		<attachments preset="DF_pisg_Glock" />
+		<attachments chance="0.5">
+			<item name="Mag_Glock_15Rnd" chance="0.1" />
+			<item name="My_DF_Weapons_Pistols_Glock18C_17RndMag" chance="0.1" />
+			<item name="My_DF_Weapons_Pistols_Glock18C_25RndExtMag" chance="0.1" />
+			<item name="My_DF_Weapons_Pistols_Glock18C_33RndExtMag" chance="0.1" />
+		</attachments>
+	</type>
+	<type name="My_DF_Weapons_Pistols_M1911">
+		<attachments preset="pistolOptics" />
+		<attachments preset="pistolMuzzle" />
+		<attachments preset="DF_barrel_M1911" />
+		<attachments preset="DF_hammer_M1911" />
+		<attachments preset="DF_trigger_M1911" />
+		<attachments preset="DF_pisg_M1911" />
+		<attachments chance="0.5">
+			<item name="My_DF_Weapons_Pistols_M1911_7RndMag" chance="0.1" />
+			<item name="My_DF_Weapons_Pistols_M1911_11RndExtMag" chance="0.1" />
+		</attachments>
+	</type>
+	<type name="My_DF_Weapons_Pistols_QSZ92G">
+		<attachments preset="pistolOptics" />
+		<attachments preset="pistolMuzzle" />
+		<attachments preset="DF_barrel_QSZ92G" />
+		<attachments chance="0.5">
+			<item name="My_DF_Weapons_Pistols_QSZ92G_15RndMag" chance="0.1" />
+		</attachments>
+	</type>
+	<type name="My_DF_Weapons_Snipers_AWM">
+		<attachments preset="DF_muzzle_AWM" />
+		<attachments preset="weaponOptics" />
+		<attachments preset="DF_barrel_AWM" />
+		<attachments preset="DF_handguard_AWM" />
+		<attachments chance="0.5">
+			<item name="My_DF_Weapons_Snipers_AWM_5RndMag" chance="0.1" />
+		</attachments>
+	</type>
+	<type name="My_DF_Weapons_Snipers_M700">
+		<attachments preset="DF_muzzle" />
+		<attachments preset="weaponOptics" />
+		<attachments preset="DF_barrel_M700" />
+		<attachments preset="DF_handguard_M700" />
+		<attachments chance="0.5">
+			<item name="My_DF_Weapons_Snipers_M700_5RndMag" chance="0.1" />
+			<item name="My_DF_Weapons_Snipers_M700_10RndMag" chance="0.1" />
+		</attachments>
+	</type>
+	<type name="My_DF_Weapons_Snipers_R93">
+		<attachments preset="DF_muzzle" />
+		<attachments preset="weaponOptics" />
+		<attachments preset="DF_barrel_R93" />
+		<attachments preset="DF_handguard_R93" />
+		<attachments preset="DF_R93HeatShield" />
+		<attachments preset="DF_bipod" />
+		<attachments chance="0.5">
+			<item name="My_DF_Weapons_Snipers_R93_10RndMag" chance="0.1" />
+			<item name="My_DF_Weapons_Snipers_R93_15RndExtMag" chance="0.1" />
+		</attachments>
+	</type>
+	<type name="My_DF_Weapons_Snipers_SV98">
+		<attachments preset="DF_muzzle" />
+		<attachments preset="weaponOptics" />
+		<attachments preset="DF_barrel_SV98" />
+		<attachments preset="DF_bipod_SV98" />
+		<attachments chance="0.5">
+			<item name="Mag_SV98_10rnd" chance="0.1" />
+			<item name="My_DF_Weapons_Snipers_SV98_7RndMag" chance="0.1" />
+		</attachments>
+	</type>
+	<type name="My_DF_Weapons_Shotguns_Citori725">
+		<attachments preset="DF_muzzle_Citori725" />
+		<attachments preset="weaponOptics" />
+		<attachments preset="DF_stock_Citori725" />
+		<attachments preset="DF_trigger_Citori725" />
+		<attachments preset="DF_handguard_Citori725" />
+	</type>
+	<type name="My_DF_Weapons_Shotguns_M870">
+		<attachments preset="DF_muzzleShotgun" />
+		<attachments preset="weaponOptics" />
+		<attachments preset="DF_stock_notube" />
+		<attachments preset="DF_barrel_M870" />
+		<attachments preset="DF_handguard_M870" />
+		<attachments preset="DF_StickLoaderLifter" />
+	</type>
+	<type name="My_DF_Weapons_Shotguns_M1014">
+		<attachments preset="DF_muzzleShotgun" />
+		<attachments preset="weaponOptics" />
+		<attachments preset="DF_barrel_M1014" />
+		<attachments preset="DF_handguard_M1014" />
+		<attachments preset="DF_StickLoaderLifter" />
+	</type>
+	<type name="My_DF_Weapons_Shotguns_Saiga12K">
+		<attachments preset="DF_muzzleShotgun" />
+		<attachments preset="weaponOptics" />
+		<attachments preset="DF_mount_S12K" />
+		<attachments preset="DF_handguard_S12K" />
+		<attachments preset="DF_ak_pisg" />
+		<attachments preset="DF_stock_pad" />
+		<attachments chance="0.5">
+			<item name="Mag_Saiga_5Rnd" chance="0.1" />
+			<item name="Mag_Saiga_8Rnd" chance="0.1" />
+			<item name="Mag_Saiga_Drum20Rnd" chance="0.1" />
+			<item name="My_DF_Weapons_Shotguns_Saiga12K_5RndMag" chance="0.1" />
+			<item name="My_DF_Weapons_Shotguns_Saiga12K_10RndMag" chance="0.1" />
+			<item name="My_DF_Weapons_Shotguns_Saiga12K_24RndDrumMag" chance="0.1" />
+		</attachments>
+	</type>
+	<type name="My_DF_Weapons_SMG_Bison">
+		<attachments preset="DF_muzzle" />
+		<attachments preset="weaponOptics" />
+		<attachments preset="DF_barrel_Bison" />
+		<attachments preset="DF_handguard_Bison" />
+		<attachments preset="DF_ak_handlecap" />
+		<attachments preset="DF_ak_pisg" />
+		<attachments preset="DF_stock_pad" />
+		<attachments chance="0.5">
+			<item name="Mag_PP19_64Rnd" chance="0.1" />
+			<item name="My_DF_Weapons_SMG_Bison_32RndMag" chance="0.1" />
+			<item name="My_DF_Weapons_SMG_Bison_64RndMag" chance="0.1" />
+		</attachments>
+	</type>
+	<type name="My_DF_Weapons_SMG_MP5">
+		<attachments preset="DF_muzzle" />
+		<attachments preset="weaponOptics" />
+		<attachments preset="DF_handguard_MP5" />
+		<attachments chance="0.5">
+			<item name="My_DF_Weapons_SMG_MP5_20RndMag" chance="0.1" />
+			<item name="My_DF_Weapons_SMG_MP5_30RndMag" chance="0.1" />
+			<item name="My_DF_Weapons_SMG_MP5_50RndMag" chance="0.1" />
+		</attachments>
+	</type>
+	<type name="My_DF_Weapons_SMG_MP7">
+		<attachments preset="DF_muzzle" />
+		<attachments preset="weaponOptics" />
+		<attachments preset="DF_barrel_MP7" />
+		<attachments preset="DF_handguard_MP7" />
+		<attachments preset="DF_pisg_MP7" />
+		<attachments preset="DF_frog_down" />
+		<attachments chance="0.5">
+			<item name="My_DF_Weapons_SMG_MP7_20RndMag" chance="0.1" />
+			<item name="My_DF_Weapons_SMG_MP7_30RndMag" chance="0.1" />
+			<item name="My_DF_Weapons_SMG_MP7_40RndMag" chance="0.1" />
+			<item name="My_DF_Weapons_SMG_MP7_60RndMag" chance="0.1" />
+		</attachments>
+	</type>
+	<type name="My_DF_Weapons_SMG_P90">
+		<attachments preset="DF_muzzle" />
+		<attachments preset="weaponOptics" />
+		<attachments preset="DF_barrel_P90" />
+		<attachments preset="DF_handguard_P90" />
+		<attachments preset="DF_cheekpad" />
+		<attachments preset="DF_frog_down" />
+		<attachments preset="DF_stock_pad_P90" />
+		<attachments chance="0.5">
+			<item name="My_DF_Weapons_SMG_P90_50RndMag" chance="0.1" />
+		</attachments>
+	</type>
+	<type name="My_DF_Weapons_SMG_PP19">
+		<attachments preset="DF_muzzle" />
+		<attachments preset="weaponOptics" />
+		<attachments preset="DF_barrel_PP19" />
+		<attachments preset="DF_handguard_PP19" />
+		<attachments preset="DF_ak_pisg" />
+		<attachments preset="DF_stock_pad" />
+		<attachments preset="DF_ak_handlecap" />
+		<attachments preset="DF_frog_down" />
+		<attachments chance="0.5">
+			<item name="My_DF_Weapons_SMG_PP19_30RndMag" chance="0.1" />
+			<item name="My_DF_Weapons_SMG_PP19_45RndMag" chance="0.1" />
+		</attachments>
+	</type>
+	<type name="My_DF_Weapons_SMG_QCQ171">
+		<attachments preset="DF_muzzle" />
+		<attachments preset="weaponOptics" />
+		<attachments preset="DF_Bolt_QCQ171" />
+		<attachments preset="DF_handguard_QCQ171" />
+		<attachments preset="DF_PLA_pisg" />
+		<attachments preset="DF_frog_down" />
+		<attachments chance="0.5">
+			<item name="My_DF_Weapons_SMG_QCQ171_30RndMag" chance="0.1" />
+			<item name="My_DF_Weapons_SMG_QCQ171_45RndMag" chance="0.1" />
+			<item name="My_DF_Weapons_SMG_QCQ171_100RndMag" chance="0.1" />
+		</attachments>
+	</type>
+	<type name="My_DF_Weapons_SMG_SMG45">
+		<attachments preset="DF_muzzle" />
+		<attachments preset="weaponOptics" />
+		<attachments preset="DF_barrel_SMG45" />
+		<attachments preset="DF_handguard_SMG45" />
+		<attachments preset="DF_ar_pisg" />
+		<attachments preset="DF_frog_down" />
+		<attachments chance="0.5">
+			<item name="My_DF_Weapons_SMG_SMG45_25RndMag" chance="0.1" />
+			<item name="My_DF_Weapons_SMG_SMG45_40RndMag" chance="0.1" />
+		</attachments>
+	</type>
+	<type name="My_DF_Weapons_SMG_SR3M">
+		<attachments preset="DF_muzzle" />
+		<attachments preset="weaponOptics" />
+		<attachments preset="DF_mount_SR3M" />
+		<attachments preset="DF_handguard_SR3M" />
+		<attachments preset="DF_ak_pisg" />
+		<attachments preset="DF_ak_handlecap" />
+		<attachments chance="0.5">
+			<item name="Mag_VSS_10Rnd" chance="0.1" />
+			<item name="Mag_VAL_20Rnd" chance="0.1" />
+			<item name="Mag_Vikhr_30Rnd" chance="0.1" />
+			<item name="My_DF_Weapons_DMR_VSS_10RndMag" chance="0.1" />
+			<item name="My_DF_Weapons_DMR_VSS_30RndMag" chance="0.1" />
+			<item name="My_DF_Weapons_DMR_VSS_45RndMag" chance="0.1" />
+		</attachments>
+	</type>
+	<type name="My_DF_Weapons_SMG_Uzi">
+		<attachments preset="DF_muzzle" />
+		<attachments preset="weaponOptics" />
+		<attachments preset="DF_barrel_Uzi" />
+		<attachments preset="DF_handguard_Uzi" />
+		<attachments chance="0.5">
+			<item name="My_DF_Weapons_SMG_Uzi_25RndMag" chance="0.1" />
+			<item name="My_DF_Weapons_SMG_Uzi_35RndMag" chance="0.1" />
+			<item name="My_DF_Weapons_SMG_Uzi_45RndMag" chance="0.1" />
+		</attachments>
+	</type>
+	<type name="My_DF_Weapons_SMG_Vector">
+		<attachments preset="DF_muzzle" />
+		<attachments preset="weaponOptics" />
+		<attachments preset="DF_frog_down" />
+		<attachments preset="DF_handguard_Vector" />
+		<attachments chance="0.5">
+			<item name="My_DF_Weapons_SMG_Vector_20RndMag" chance="0.1" />
+			<item name="My_DF_Weapons_SMG_Vector_30RndMag" chance="0.1" />
+			<item name="My_DF_Weapons_SMG_Vector_40RndMag" chance="0.1" />
+			<item name="My_DF_Weapons_SMG_Vector_70RndMag" chance="0.1" />
+		</attachments>
+	</type>
+	<type name="My_DF_Weapons_Rifles_AK12">
+		<attachments preset="DF_muzzle" />
+		<attachments preset="weaponOptics" />
+		<attachments preset="DF_handguard_AK12" />
+		<attachments preset="DF_ak_pisg" />
+		<attachments preset="DF_ak_handlecap" />
+		<attachments preset="DF_frog_down" />
+		<attachments chance="0.5">
+			<item name="Mag_AK74_30Rnd" chance="0.1" />
+			<item name="Mag_AK74_45Rnd" chance="0.1" />
+			<item name="My_DF_Weapons_Rifles_AK12_30RndMag" chance="0.1" />
+			<item name="My_DF_Weapons_Rifles_AK74_20RndMag" chance="0.1" />
+			<item name="My_DF_Weapons_Rifles_AK74_30RndMag" chance="0.1" />
+			<item name="My_DF_Weapons_Rifles_AKS74U_30RndMag" chance="0.1" />
+			<item name="My_DF_Weapons_Rifles_AKS74U_45RndExtMag" chance="0.1" />
+			<item name="My_DF_Weapons_Rifles_AKS74U_75RndDrumMag" chance="0.1" />
+		</attachments>
+	</type>
+	<type name="My_DF_Weapons_Rifles_AKM">
+		<attachments preset="DF_muzzle" />
+		<attachments preset="weaponOptics" />
+		<attachments preset="DF_barrel_AKM" />
+		<attachments preset="DF_handguard_AKM" />
+		<attachments preset="DF_ak_pisg" />
+		<attachments preset="DF_ak_handlecap" />
+		<attachments preset="DF_mount_SVD" />
+		<attachments preset="DF_stock_pad" />
+		<attachments chance="0.5">
+			<item name="Mag_AKM_30Rnd" chance="0.1" />
+			<item name="Mag_AKM_Palm30Rnd" chance="0.1" />
+			<item name="Mag_AKM_Drum75Rnd" chance="0.1" />
+			<item name="My_DF_Weapons_Rifles_AKM_20RndMag" chance="0.1" />
+			<item name="My_DF_Weapons_Rifles_AKM_30RndMag" chance="0.1" />
+			<item name="My_DF_Weapons_Rifles_AKM_30RndMag2" chance="0.1" />
+			<item name="My_DF_Weapons_Rifles_AKM_30RndMag3" chance="0.1" />
+			<item name="My_DF_Weapons_Rifles_AKM_40RndMag" chance="0.1" />
+			<item name="My_DF_Weapons_Rifles_AKM_70RndMag" chance="0.1" />
+		</attachments>
+	</type>
+	<type name="My_DF_Weapons_Rifles_AKS74U">
+		<attachments preset="DF_muzzle" />
+		<attachments preset="weaponOptics" />
+		<attachments preset="DF_handguard_AKS74U" />
+		<attachments preset="DF_handguard_up_AKS74U" />
+		<attachments preset="DF_ak_pisg" />
+		<attachments preset="DF_ak_handlecap" />
+		<attachments preset="DF_mount_SVD" />
+		<attachments preset="DF_stock_pad" />
+		<attachments chance="0.5">
+			<item name="Mag_AK74_30Rnd" chance="0.1" />
+			<item name="Mag_AK74_45Rnd" chance="0.1" />
+			<item name="My_DF_Weapons_Rifles_AK12_30RndMag" chance="0.1" />
+			<item name="My_DF_Weapons_Rifles_AK74_20RndMag" chance="0.1" />
+			<item name="My_DF_Weapons_Rifles_AK74_30RndMag" chance="0.1" />
+			<item name="My_DF_Weapons_Rifles_AKS74U_30RndMag" chance="0.1" />
+			<item name="My_DF_Weapons_Rifles_AKS74U_45RndExtMag" chance="0.1" />
+			<item name="My_DF_Weapons_Rifles_AKS74U_75RndDrumMag" chance="0.1" />
+		</attachments>
+	</type>
+	<type name="My_DF_Weapons_Rifles_Ash12">
+		<attachments preset="DF_muzzle_Ash12" />
+		<attachments preset="weaponOptics" />
+		<attachments preset="DF_barrel_Ash12" />
+		<attachments preset="DF_stock_Ash12" />
+		<attachments preset="DF_frog_down" />
+		<attachments chance="0.5">
+			<item name="My_DF_Weapons_Rifles_Ash12_20RndMag" chance="0.1" />
+			<item name="My_DF_Weapons_Rifles_Ash12_30RndMag" chance="0.1" />
+		</attachments>
+	</type>
+	<type name="My_DF_Weapons_Rifles_ASVAL">
+		<attachments preset="weaponOptics" />
+		<attachments preset="DF_barrel_VSS" />
+		<attachments preset="DF_ak_pisg" />
+		<attachments preset="DF_mount_SVD" />
+		<attachments preset="DF_ak_handlecap" />
+		<attachments chance="0.5">
+			<item name="Mag_VSS_10Rnd" chance="0.1" />
+			<item name="Mag_VAL_20Rnd" chance="0.1" />
+			<item name="Mag_Vikhr_30Rnd" chance="0.1" />
+			<item name="My_DF_Weapons_DMR_VSS_10RndMag" chance="0.1" />
+			<item name="My_DF_Weapons_DMR_VSS_30RndMag" chance="0.1" />
+			<item name="My_DF_Weapons_DMR_VSS_45RndMag" chance="0.1" />
+		</attachments>
+	</type>
+	<type name="My_DF_Weapons_Rifles_AUG">
+		<attachments preset="DF_muzzle" />
+		<attachments preset="weaponOptics" />
+		<attachments preset="DF_handguard_AUG" />
+		<attachments preset="DF_stock_pad_AUG" />
+		<attachments preset="DF_frog_down" />
+		<attachments chance="0.5">
+			<item name="Mag_Aug_30Rnd" chance="0.1" />
+			<item name="Mag_STANAG_30Rnd" chance="0.1" />
+			<item name="Mag_STANAGCoupled_30Rnd" chance="0.1" />
+			<item name="Mag_STANAG_60Rnd" chance="0.1" />
+			<item name="Mag_CMAG_10Rnd" chance="0.1" />
+			<item name="Mag_CMAG_20Rnd" chance="0.1" />
+			<item name="Mag_CMAG_30Rnd" chance="0.1" />
+			<item name="Mag_CMAG_40Rnd" chance="0.1" />
+			<item name="My_DF_Weapons_Rifles_M4A1_20RndMag" chance="0.1" />
+			<item name="My_DF_Weapons_Rifles_M4A1_30RndMag" chance="0.1" />
+			<item name="My_DF_Weapons_Rifles_M4A1_30RndMag2" chance="0.1" />
+			<item name="My_DF_Weapons_Rifles_M4A1_30RndPMag" chance="0.1" />
+			<item name="My_DF_Weapons_Rifles_M4A1_45RndMag" chance="0.1" />
+			<item name="My_DF_Weapons_Rifles_M4A1_60RndDrumMag" chance="0.1" />
+			<item name="My_DF_Weapons_Rifles_M4A1_60RndMag" chance="0.1" />
+			<item name="My_DF_Weapons_Rifles_AUG_30RndMag" chance="0.1" />
+			<item name="My_DF_Weapons_Rifles_AUG_30RndPMag" chance="0.1" />
+			<item name="My_DF_Weapons_Rifles_AUG_60RndMag" chance="0.1" />
+		</attachments>
+	</type>
+	<type name="My_DF_Weapons_Rifles_CAR15">
+		<attachments preset="DF_muzzle" />
+		<attachments preset="weaponOptics" />
+		<attachments preset="DF_handguard_AR" />
+		<attachments preset="DF_ar_pisg" />
+		<attachments preset="DF_stock_notube" />
+		<attachments chance="0.5">
+			<item name="Mag_Aug_30Rnd" chance="0.1" />
+			<item name="Mag_STANAG_30Rnd" chance="0.1" />
+			<item name="Mag_STANAGCoupled_30Rnd" chance="0.1" />
+			<item name="Mag_STANAG_60Rnd" chance="0.1" />
+			<item name="Mag_CMAG_10Rnd" chance="0.1" />
+			<item name="Mag_CMAG_20Rnd" chance="0.1" />
+			<item name="Mag_CMAG_30Rnd" chance="0.1" />
+			<item name="Mag_CMAG_40Rnd" chance="0.1" />
+			<item name="My_DF_Weapons_Rifles_M4A1_20RndMag" chance="0.1" />
+			<item name="My_DF_Weapons_Rifles_M4A1_30RndMag" chance="0.1" />
+			<item name="My_DF_Weapons_Rifles_M4A1_30RndMag2" chance="0.1" />
+			<item name="My_DF_Weapons_Rifles_M4A1_30RndPMag" chance="0.1" />
+			<item name="My_DF_Weapons_Rifles_M4A1_45RndMag" chance="0.1" />
+			<item name="My_DF_Weapons_Rifles_M4A1_60RndDrumMag" chance="0.1" />
+			<item name="My_DF_Weapons_Rifles_M4A1_60RndMag" chance="0.1" />
+		</attachments>
+	</type>
+	<type name="My_DF_Weapons_Rifles_G3">
+		<attachments preset="DF_muzzle" />
+		<attachments preset="weaponOptics" />
+		<attachments preset="DF_handguard_G3" />
+		<attachments preset="DF_pisg_G3" />
+		<attachments preset="DF_frog_down" />
+		<attachments preset="DF_bipod" />
+		<attachments preset="DF_mount_G3" />
+		<attachments chance="0.5">
+			<item name="My_DF_Weapons_Rifles_G3_10RndMag" chance="0.1" />
+			<item name="My_DF_Weapons_Rifles_G3_20RndMag" chance="0.1" />
+			<item name="My_DF_Weapons_Rifles_G3_30RndMag" chance="0.1" />
+			<item name="My_DF_Weapons_Rifles_G3_50RndDrumMag" chance="0.1" />
+		</attachments>
+	</type>
+	<type name="My_DF_Weapons_Rifles_K416">
+		<attachments preset="DF_muzzle" />
+		<attachments preset="weaponOptics" />
+		<attachments preset="DF_handguard_K416" />
+		<attachments preset="DF_ar_pisg" />
+		<attachments preset="DF_frog_down" />
+		<attachments preset="DF_bipod" />
+		<attachments chance="0.5">
+			<item name="Mag_Aug_30Rnd" chance="0.1" />
+			<item name="Mag_STANAG_30Rnd" chance="0.1" />
+			<item name="Mag_STANAGCoupled_30Rnd" chance="0.1" />
+			<item name="Mag_STANAG_60Rnd" chance="0.1" />
+			<item name="Mag_CMAG_10Rnd" chance="0.1" />
+			<item name="Mag_CMAG_20Rnd" chance="0.1" />
+			<item name="Mag_CMAG_30Rnd" chance="0.1" />
+			<item name="Mag_CMAG_40Rnd" chance="0.1" />
+			<item name="My_DF_Weapons_Rifles_M4A1_20RndMag" chance="0.1" />
+			<item name="My_DF_Weapons_Rifles_M4A1_30RndMag" chance="0.1" />
+			<item name="My_DF_Weapons_Rifles_M4A1_30RndMag2" chance="0.1" />
+			<item name="My_DF_Weapons_Rifles_M4A1_30RndPMag" chance="0.1" />
+			<item name="My_DF_Weapons_Rifles_M4A1_45RndMag" chance="0.1" />
+			<item name="My_DF_Weapons_Rifles_M4A1_60RndDrumMag" chance="0.1" />
+			<item name="My_DF_Weapons_Rifles_M4A1_60RndMag" chance="0.1" />
+		</attachments>
+	</type>
+	<type name="My_DF_Weapons_Rifles_K437">
+		<attachments preset="DF_muzzle" />
+		<attachments preset="weaponOptics" />
+		<attachments preset="DF_handguard_K437" />
+		<attachments preset="DF_ar_pisg" />
+		<attachments preset="DF_frog_down" />
+		<attachments chance="0.5">
+			<item name="My_DF_Weapons_Rifles_K437_30RndMag" chance="0.1" />
+			<item name="My_DF_Weapons_Rifles_K437_45RndMag" chance="0.1" />
+			<item name="My_DF_Weapons_Rifles_K437_60RndMag" chance="0.1" />
+		</attachments>
+	</type>
+	<type name="My_DF_Weapons_Rifles_KC17">
+		<attachments preset="DF_muzzle" />
+		<attachments preset="weaponOptics" />
+		<attachments preset="DF_handguard_KC17" />
+		<attachments preset="DF_ar_pisg" />
+		<attachments preset="DF_frog_down" />
+		<attachments chance="0.5">
+			<item name="My_DF_Weapons_Rifles_KC17_30RndMag" chance="0.1" />
+			<item name="My_DF_Weapons_Rifles_KC17_45RndMag" chance="0.1" />
+			<item name="My_DF_Weapons_Rifles_KC17_60RndMag" chance="0.1" />
+		</attachments>
+	</type>
+	<type name="My_DF_Weapons_Rifles_M4A1">
+		<attachments preset="DF_muzzle" />
+		<attachments preset="weaponOptics" />
+		<attachments preset="DF_handguard_AR" />
+		<attachments preset="DF_ar_pisg" />
+		<attachments preset="DF_frog_down" />
+		<attachments preset="DF_stock_notube" />
+		<attachments preset="DF_bipod" />
+		<attachments chance="0.5">
+			<item name="Mag_Aug_30Rnd" chance="0.1" />
+			<item name="Mag_STANAG_30Rnd" chance="0.1" />
+			<item name="Mag_STANAGCoupled_30Rnd" chance="0.1" />
+			<item name="Mag_STANAG_60Rnd" chance="0.1" />
+			<item name="Mag_CMAG_10Rnd" chance="0.1" />
+			<item name="Mag_CMAG_20Rnd" chance="0.1" />
+			<item name="Mag_CMAG_30Rnd" chance="0.1" />
+			<item name="Mag_CMAG_40Rnd" chance="0.1" />
+			<item name="My_DF_Weapons_Rifles_M4A1_20RndMag" chance="0.1" />
+			<item name="My_DF_Weapons_Rifles_M4A1_30RndMag" chance="0.1" />
+			<item name="My_DF_Weapons_Rifles_M4A1_30RndMag2" chance="0.1" />
+			<item name="My_DF_Weapons_Rifles_M4A1_30RndPMag" chance="0.1" />
+			<item name="My_DF_Weapons_Rifles_M4A1_45RndMag" chance="0.1" />
+			<item name="My_DF_Weapons_Rifles_M4A1_60RndDrumMag" chance="0.1" />
+			<item name="My_DF_Weapons_Rifles_M4A1_60RndMag" chance="0.1" />
+		</attachments>
+	</type>
+	<type name="My_DF_Weapons_Rifles_M7">
+		<attachments preset="DF_muzzle" />
+		<attachments preset="weaponOptics" />
+		<attachments preset="DF_handguard_M7" />
+		<attachments preset="DF_ar_pisg" />
+		<attachments preset="DF_frog_down" />
+		<attachments preset="DF_bipod" />
+		<attachments chance="0.5">
+			<item name="My_DF_Weapons_Rifles_M7_20RndMag" chance="0.1" />
+			<item name="My_DF_Weapons_Rifles_M7_30RndMag" chance="0.1" />
+			<item name="My_DF_Weapons_Rifles_M7_45RndMag" chance="0.1" />
+		</attachments>
+	</type>
+	<type name="My_DF_Weapons_Rifles_M16A4">
+		<attachments preset="DF_muzzle" />
+		<attachments preset="weaponOptics" />
+		<attachments preset="DF_handguard_AR" />
+		<attachments preset="DF_ar_pisg" />
+		<attachments preset="DF_stock_notube" />
+		<attachments chance="0.5">
+			<item name="Mag_Aug_30Rnd" chance="0.1" />
+			<item name="Mag_STANAG_30Rnd" chance="0.1" />
+			<item name="Mag_STANAGCoupled_30Rnd" chance="0.1" />
+			<item name="Mag_STANAG_60Rnd" chance="0.1" />
+			<item name="Mag_CMAG_10Rnd" chance="0.1" />
+			<item name="Mag_CMAG_20Rnd" chance="0.1" />
+			<item name="Mag_CMAG_30Rnd" chance="0.1" />
+			<item name="Mag_CMAG_40Rnd" chance="0.1" />
+			<item name="My_DF_Weapons_Rifles_M4A1_20RndMag" chance="0.1" />
+			<item name="My_DF_Weapons_Rifles_M4A1_30RndMag" chance="0.1" />
+			<item name="My_DF_Weapons_Rifles_M4A1_30RndMag2" chance="0.1" />
+			<item name="My_DF_Weapons_Rifles_M4A1_30RndPMag" chance="0.1" />
+			<item name="My_DF_Weapons_Rifles_M4A1_45RndMag" chance="0.1" />
+			<item name="My_DF_Weapons_Rifles_M4A1_60RndDrumMag" chance="0.1" />
+			<item name="My_DF_Weapons_Rifles_M4A1_60RndMag" chance="0.1" />
+		</attachments>
+	</type>
+	<type name="My_DF_Weapons_Rifles_MK47">
+		<attachments preset="DF_muzzle" />
+		<attachments preset="weaponOptics" />
+		<attachments preset="DF_handguard_MK47" />
+		<attachments preset="DF_ar_pisg" />
+		<attachments preset="DF_frog_down" />
+		<attachments preset="DF_bipod" />
+		<attachments chance="0.5">
+			<item name="Mag_AKM_30Rnd" chance="0.1" />
+			<item name="Mag_AKM_Palm30Rnd" chance="0.1" />
+			<item name="Mag_AKM_Drum75Rnd" chance="0.1" />
+			<item name="My_DF_Weapons_Rifles_AKM_20RndMag" chance="0.1" />
+			<item name="My_DF_Weapons_Rifles_AKM_30RndMag" chance="0.1" />
+			<item name="My_DF_Weapons_Rifles_AKM_30RndMag2" chance="0.1" />
+			<item name="My_DF_Weapons_Rifles_AKM_30RndMag3" chance="0.1" />
+			<item name="My_DF_Weapons_Rifles_AKM_40RndMag" chance="0.1" />
+			<item name="My_DF_Weapons_Rifles_AKM_70RndMag" chance="0.1" />
+		</attachments>
+	</type>
+	<type name="My_DF_Weapons_Rifles_PTR32">
+		<attachments preset="DF_muzzle" />
+		<attachments preset="weaponOptics" />
+		<attachments preset="DF_handguard_G3" />
+		<attachments preset="DF_pisg_G3" />
+		<attachments preset="DF_frog_down" />
+		<attachments preset="DF_mount_G3" />
+		<attachments chance="0.5">
+			<item name="My_DF_Weapons_Rifles_G3_10RndMag" chance="0.1" />
+			<item name="My_DF_Weapons_Rifles_G3_20RndMag" chance="0.1" />
+			<item name="My_DF_Weapons_Rifles_G3_30RndMag" chance="0.1" />
+			<item name="My_DF_Weapons_Rifles_G3_50RndDrumMag" chance="0.1" />
+		</attachments>
+	</type>
+	<type name="My_DF_Weapons_Rifles_QBZ95">
+		<attachments preset="DF_muzzle" />
+		<attachments preset="weaponOptics" />
+		<attachments preset="DF_barrel_QBZ95" />
+		<attachments preset="DF_handguard_QBZ95" />
+		<attachments preset="DF_frog_down" />
+		<attachments preset="DF_ar_pisg" />
+		<attachments preset="DF_cheekpad_QBZ95" />
+		<attachments preset="DF_Handle_QBZ95" />
+		<attachments chance="0.5">
+			<item name="My_DF_Weapons_Rifles_QBZ95_30RndMag" chance="0.1" />
+			<item name="My_DF_Weapons_LMG_QJB201_45RndMag" chance="0.1" />
+			<item name="My_DF_Weapons_Rifles_QBZ191_30RndMag" chance="0.1" />
+			<item name="My_DF_Weapons_Rifles_QBZ191_60RndMag" chance="0.1" />
+		</attachments>
+	</type>
+	<type name="My_DF_Weapons_Rifles_QBZ191">
+		<attachments preset="DF_muzzle" />
+		<attachments preset="weaponOptics" />
+		<attachments preset="DF_barrel_QBZ191" />
+		<attachments preset="DF_handguard_QBZ191" />
+		<attachments preset="DF_Piston_QBZ191" />
+		<attachments preset="DF_PLA_pisg" />
+		<attachments chance="0.5">
+			<item name="My_DF_Weapons_Rifles_QBZ95_30RndMag" chance="0.1" />
+			<item name="My_DF_Weapons_LMG_QJB201_45RndMag" chance="0.1" />
+			<item name="My_DF_Weapons_Rifles_QBZ191_30RndMag" chance="0.1" />
+			<item name="My_DF_Weapons_Rifles_QBZ191_60RndMag" chance="0.1" />
+		</attachments>
+	</type>
+	<type name="My_DF_Weapons_Rifles_SCARH">
+		<attachments preset="DF_muzzle" />
+		<attachments preset="weaponOptics" />
+		<attachments preset="DF_handguard_SCARH" />
+		<attachments preset="DF_ar_pisg" />
+		<attachments preset="DF_frog_down" />
+		<attachments chance="0.5">
+			<item name="My_DF_Weapons_Rifles_SCARH_20RndMag" chance="0.1" />
+			<item name="My_DF_Weapons_Rifles_SCARH_30RndMag" chance="0.1" />
+			<item name="My_DF_Weapons_Rifles_SCARH_50RndMag" chance="0.1" />
+		</attachments>
+	</type>
+	<type name="My_DF_Weapons_Rifles_SG553">
+		<attachments preset="DF_muzzle" />
+		<attachments preset="weaponOptics" />
+		<attachments preset="DF_barrel_SG553" />
+		<attachments preset="DF_handguard_SG553" />
+		<attachments preset="DF_ar_pisg" />
+		<attachments chance="0.5">
+			<item name="My_DF_Weapons_Rifles_SG553_20RndMag" chance="0.1" />
+			<item name="My_DF_Weapons_Rifles_SG553_30RndMag" chance="0.1" />
+			<item name="My_DF_Weapons_Rifles_SG553_45RndMag" chance="0.1" />
+		</attachments>
+	</type>
+	<type name="My_DF_Weapons_SMG_MK4">
+		<attachments preset="DF_muzzle" />
+		<attachments preset="weaponOptics" />
+		<attachments preset="DF_stock_notube" />
+		<attachments preset="DF_handguard_MK4" />
+		<attachments preset="DF_ar_pisg" />
+		<attachments chance="0.5">
+			<item name="My_DF_Weapons_SMG_MK4_24RndMag" chance="0.1" />
+			<item name="My_DF_Weapons_SMG_MK4_48RndMag" chance="0.1" />
+		</attachments>
+	</type>
+</spawnabletypes>

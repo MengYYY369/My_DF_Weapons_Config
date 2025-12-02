@@ -1,0 +1,39 @@
+{
+    "m_Version": 12,
+    "DisplayName": "#STR_EXPANSION_MARKET_TRADER_WEAPONS",
+    "MinRequiredReputation": 0,
+    "MaxRequiredReputation": 2147483647,
+    "RequiredFaction": "",
+    "RequiredCompletedQuestID": -1,
+    "TraderIcon": "Shotgun",
+    "Currencies": [
+        "expansionbanknotehryvnia"
+    ],
+    "DisplayCurrencyValue": 1,
+    "DisplayCurrencyName": "",
+    "Categories": [
+        "DF_Weapons_Ammo",
+        "DF_Weapons_AmmoBox",
+        "DF_Weapons_Barrel",
+        "DF_Weapons_Bipod",
+        "DF_Weapons_Frog",
+        "DF_Weapons_Handguard",
+        "DF_Weapons_Laser",
+        "DF_Weapons_Light",
+        "DF_Weapons_Muzzle",
+        "DF_Weapons_Optic",
+        "DF_Weapons_Other",
+        "DF_Weapons_Pisg",
+        "DF_Weapons_Stock",
+        "DF_Weapons_Melee",
+        "DF_Weapons_Magazine",
+        "DF_Weapons_DMR",
+        "DF_Weapons_LMG",
+        "DF_Weapons_Pistol",
+        "DF_Weapons_Rifle",
+        "DF_Weapons_Shotgun",
+        "DF_Weapons_SMG",
+        "DF_Weapons_Sniper"
+    ],
+    "Items": {}
+}
